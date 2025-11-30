@@ -1,0 +1,54 @@
+科技感AI风配色方案
+:root {
+  /* 主色调：科技蓝 */
+  --vp-c-primary: #0070f3;
+  --vp-c-primary-light: #3291ff;
+  --vp-c-primary-lighter: #64b5f6;
+  --vp-c-primary-dark: #0051cb;
+  --vp-c-primary-darker: #073055;
+  
+  /* 辅助色：AI紫 */
+  --vp-c-purple: #8b5cf6;
+  --vp-c-purple-light: #a78bfa;
+  --vp-c-purple-lighter: #c4b5fd;
+  
+  /* 背景色：渐变深蓝 */
+  --vp-c-bg: #0a192f;
+  --vp-c-bg-alt: #112240;
+  
+  /* 文本色：高对比度 */
+  --vp-c-text-1: #e6f1ff;
+  --vp-c-text-2: #a8b2d1;
+  --vp-c-text-3: #64ffda;
+  
+  /* 边框色：科技感蓝 */
+  --vp-c-border: #233554;
+  --vp-c-border-light: #495670;
+  
+  /* 代码块样式 */
+  --vp-c-code-bg: #112240;
+  --vp-c-code-inline-bg: rgba(139, 92, 246, 0.1);
+  
+  /* 卡片样式 */
+  --vp-c-card: #112240;
+  --vp-c-card-hover: #1a2b4a;
+  
+  /* 阴影效果 */
+  --vp-shadow-1: 0 2px 8px rgba(0, 112, 243, 0.15);
+  --vp-shadow-2: 0 8px 32px rgba(0, 112, 243, 0.25);
+  --vp-shadow-3: 0 16px 64px rgba(0, 112, 243, 0.35);
+}
+
+/* 全局样式 */
+body {
+  background: 
+    /* 网格纹理 
+    linear-gradient(rgba(212, 216, 218, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(14, 165, 233, 0.05) 1px, transparent 1px),*/
+    /* 主渐变背景 
+    linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+  background-size: 20px 20px, 20px 20px, 100% 100%;
+  background-attachment: fixed;
+  color: var(--vp-c-text-1);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;*/
+}
