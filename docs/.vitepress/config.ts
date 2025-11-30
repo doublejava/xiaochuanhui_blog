@@ -2,10 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
-  title: '肖传辉',
+  title: '我的博客',
   description: '这是一个使用 VitePress 搭建的博客',
   // 引入自定义样式
   css: ['/style.css'],
+  // Gitee Pages 基础路径
+  base: '/xiaochuanhui_blog/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
