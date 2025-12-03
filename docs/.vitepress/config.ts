@@ -35,6 +35,8 @@ export default defineConfig({
           text: 'Java基础',
           items: [
             { text: 'Java Stream 详解与实践', link: '/java/basics/stream/' },
+            { text: 'Stream Map 操作详解', link: '/java/basics/stream/map/' },
+            { text: 'Stream Filter 操作详解', link: '/java/basics/stream/filter/' },
             { text: 'Java Function 函数式接口详解', link: '/java/basics/function/' },
             { text: 'Java 文件操作详解与实践', link: '/java/basics/file-operations/' },
             { text: 'Java 异常处理详解与最佳实践', link: '/java/basics/exception-handling/' }
