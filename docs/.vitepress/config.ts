@@ -6,8 +6,8 @@ export default defineConfig({
   description: '这是一个使用 VitePress 搭建的博客',
   // 引入自定义样式
   css: ['/style.css'],
-  // Gitee Pages 基础路径
-  base: '/xiaochuanhui_blog/',
+  // Netlify 基础路径
+  base: '/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
@@ -20,6 +20,7 @@ export default defineConfig({
       { text: '项目管理', link: '/项目管理/' },
       { text: 'AI系统', link: '/ai/' },
       { text: '信创国产化', link: '/信创国产化/' },
+      { text: '博客部署', link: '/博客部署/' },
       { text: '关于', link: '/about/' }
     ],
     sidebar: {
