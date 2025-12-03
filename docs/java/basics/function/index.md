@@ -66,9 +66,6 @@ BiFunction<String, String, String> concat = (s1, s2) -> s1 + s2;
 String result = concat.apply("Hello", " World"); // "Hello World"
 ```
 
-**默认方法**：
-- `andThen(Function<? super R, ? extends V> after)`：先执行当前函数，再执行after函数
-
 **示例**：
 ```java
 // 先求和，再加10
@@ -76,6 +73,7 @@ BiFunction<Integer, Integer, Integer> add = (a, b) -> a + b;
 Function<Integer, Integer> addTen = n -> n + 10;
 BiFunction<Integer, Integer, Integer> addAndAddTen = add.andThen(addTen);
 int result = addAndAddTen.apply(10, 20); // 40
+
 ```
 
 ### 3. UnaryOperator<T> - 一元操作符
