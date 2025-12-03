@@ -32,6 +32,13 @@ export default defineConfig({
           ]
         },
         {
+          text: 'Java基础',
+          items: [
+            { text: 'Java Stream 详解与实践', link: '/java/basics/stream/' },
+            { text: 'Java Function 函数式接口详解', link: '/java/basics/function/' }
+          ]
+        },
+        {
           text: 'Spring Boot',
           items: [
             { text: 'Spring Boot 首页', link: '/java/springboot/' },
