@@ -1,124 +1,14 @@
 # 🏔️ 山高路远，码海行舟
 
-## 👋 你好，我是一位IT技术探索者
 
+```python
 在代码的海洋里，我以键盘为桨，以屏幕为帆，探索着技术的星辰大海。
 
 拥有多年企业级系统开发经验，专注于构建高效、可靠的技术解决方案，
 在分布式架构、性能优化、数据库设计等领域深耕不辍。
-
+```
 ---
 
-## 🎯 专注领域
-
-<div class="tech-stack">
-  <div class="tech-item">
-    <span class="tech-badge">后端开发</span>
-    <span class="tech-desc">构建可靠的系统基石</span>
-  </div>
-  <div class="tech-item">
-    <span class="tech-badge">分布式架构</span>
-    <span class="tech-desc">设计高可用的系统蓝图</span>
-  </div>
-  <div class="tech-item">
-    <span class="tech-badge">数据库技术</span>
-    <span class="tech-desc">挖掘数据的无限价值</span>
-  </div>
-  <div class="tech-item">
-    <span class="tech-badge">容器化部署</span>
-    <span class="tech-desc">实现高效的应用交付</span>
-  </div>
-  <div class="tech-item">
-    <span class="tech-badge">性能优化</span>
-    <span class="tech-desc">提升系统运行效率</span>
-  </div>
-  <div class="tech-item">
-    <span class="tech-badge">技术架构</span>
-    <span class="tech-desc">设计可扩展的系统</span>
-  </div>
-</div>
-
----
-
-## ✨ 技术亮点
-
-<div class="column-cards">
-  <div class="column-card">
-    <h4>🚀 系统架构设计</h4>
-    <ul>
-      <li>设计过日处理千万级数据的系统</li>
-      <li>构建高可用分布式微服务架构</li>
-      <li>实现跨地域多活部署方案</li>
-      <li>优化系统性能提升300%</li>
-    </ul>
-  </div>
-  <div class="column-card">
-    <h4>💡 技术实践经验</h4>
-    <ul>
-      <li>解决过数百个生产环境问题</li>
-      <li>主导过多次大型系统重构</li>
-      <li>积累了丰富的性能调优经验</li>
-      <li>掌握多种数据库优化技巧</li>
-    </ul>
-  </div>
-  <div class="column-card">
-    <h4>📚 知识分享价值</h4>
-    <ul>
-      <li>36+篇原创技术文章</li>
-      <li>5大核心技术专栏</li>
-      <li>实用的解决方案分享</li>
-      <li>深入浅出的技术解析</li>
-    </ul>
-  </div>
-</div>
-
----
-
-## 📖 博客价值
-
-<div class="stats">
-  <div class="stat-item">
-    <span class="stat-number">36</span>
-    <span class="stat-label">原创技术文章</span>
-  </div>
-  <div class="stat-item">
-    <span class="stat-number">5</span>
-    <span class="stat-label">核心技术专栏</span>
-  </div>
-  <div class="stat-item">
-    <span class="stat-number">10+</span>
-    <span class="stat-label">技术领域覆盖</span>
-  </div>
-  <div class="stat-item">
-    <span class="stat-number">1000+</span>
-    <span class="stat-label">累计阅读量</span>
-  </div>
-</div>
-
----
-
-## 🚀 探索更多
-
-> 🌊 技术的海洋无边无际，愿我们都能在这片海洋中找到属于自己的方向。
-> 
-> 📚 这里有实用的技术解决方案，深入浅出的架构解析，
-> 
-> 💡 还有我多年积累的实战经验和思考感悟，
-> 
-> 🤝 期待与你一起探索技术的无限可能，共同成长进步！
-
-<div style="text-align: center; margin: 30px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <a href="/java/" class="card-link">Java技术栈</a>
-  <a href="/frontend/" class="card-link">前端技术</a>
-  <a href="/linux/" class="card-link">Linux运维</a>
-  <a href="/nginx/" class="card-link">Nginx</a>
-  <a href="/数据库/" class="card-link">数据库</a>
-  <a href="/动态库/" class="card-link">动态库</a>
-  <a href="/项目管理/" class="card-link">项目管理</a>
-  <a href="/ai/" class="card-link">AI系统</a>
-  <a href="/信创国产化/" class="card-link">信创国产化</a>
-  <a href="/about/" class="card-link">关于</a>
-</div>
 
 <style scoped>
 /* 全局样式重置 */
